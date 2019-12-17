@@ -1,1 +1,1 @@
-# Mikrocontroller_Projekt
+# My Microcontroller Project for the course Programming Microcontrollers

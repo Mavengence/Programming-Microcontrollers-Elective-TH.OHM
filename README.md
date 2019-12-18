@@ -1,4 +1,9 @@
-# Computer Science elective "Programming Microcontrollers"
+<div style="border-bottom:none;">
+  <div align="center"> 
+    <img style="border-bottom:none;" src="https://upload.wikimedia.org/wikipedia/commons/2/25/TH-Nuernberg-Logo.jpeg">
+    <h1>Computer Science elective "Programming Microcontrollers"</h1>
+  </div>
+</div>
 
 ## Abstract
 My Microcontroller Project for the course Programming Microcontrollers

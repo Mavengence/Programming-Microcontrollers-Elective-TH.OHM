@@ -1,6 +1,6 @@
-<div style="border-bottom:none; width: 50%;">
-  <div align="center" width="50%"> 
-    <img style="border-bottom:none; width: 50%;" src="https://upload.wikimedia.org/wikipedia/commons/2/25/TH-Nuernberg-Logo.jpeg">
+<div style="border-bottom:none;">
+  <div align="center"> 
+    <img style="border-bottom:none;" sizes="200px" src="https://upload.wikimedia.org/wikipedia/commons/2/25/TH-Nuernberg-Logo.jpeg">
     <h1>Computer Science Elective - Programming Microcontrollers</h1>
   </div>
 </div>
